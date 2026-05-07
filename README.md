@@ -79,10 +79,6 @@ Estou em jornada contínua de aprendizado, explorando as melhores práticas de s
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gusza1480_aqui&color=blue)
-
 **Feito por Gustavo Souza Santos**
 
 </div>
